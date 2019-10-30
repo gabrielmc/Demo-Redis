@@ -1,0 +1,14 @@
+C:\Users\gcerqueira\Downloads\ASPNETCore2.2_Sql_CacheRedis_API-master\Redis\APICotacoes\bin\Debug\netcoreapp2.2\APICotacoes.deps.json
+C:\Users\gcerqueira\Downloads\ASPNETCore2.2_Sql_CacheRedis_API-master\Redis\APICotacoes\bin\Debug\netcoreapp2.2\APICotacoes.runtimeconfig.json
+C:\Users\gcerqueira\Downloads\ASPNETCore2.2_Sql_CacheRedis_API-master\Redis\APICotacoes\bin\Debug\netcoreapp2.2\APICotacoes.runtimeconfig.dev.json
+C:\Users\gcerqueira\Downloads\ASPNETCore2.2_Sql_CacheRedis_API-master\Redis\APICotacoes\bin\Debug\netcoreapp2.2\APICotacoes.dll
+C:\Users\gcerqueira\Downloads\ASPNETCore2.2_Sql_CacheRedis_API-master\Redis\APICotacoes\bin\Debug\netcoreapp2.2\APICotacoes.pdb
+C:\Users\gcerqueira\Downloads\ASPNETCore2.2_Sql_CacheRedis_API-master\Redis\APICotacoes\obj\Debug\netcoreapp2.2\APICotacoes.csprojAssemblyReference.cache
+C:\Users\gcerqueira\Downloads\ASPNETCore2.2_Sql_CacheRedis_API-master\Redis\APICotacoes\obj\Debug\netcoreapp2.2\APICotacoes.csproj.CoreCompileInputs.cache
+C:\Users\gcerqueira\Downloads\ASPNETCore2.2_Sql_CacheRedis_API-master\Redis\APICotacoes\obj\Debug\netcoreapp2.2\APICotacoes.RazorAssemblyInfo.cache
+C:\Users\gcerqueira\Downloads\ASPNETCore2.2_Sql_CacheRedis_API-master\Redis\APICotacoes\obj\Debug\netcoreapp2.2\APICotacoes.RazorAssemblyInfo.cs
+C:\Users\gcerqueira\Downloads\ASPNETCore2.2_Sql_CacheRedis_API-master\Redis\APICotacoes\obj\Debug\netcoreapp2.2\APICotacoes.AssemblyInfoInputs.cache
+C:\Users\gcerqueira\Downloads\ASPNETCore2.2_Sql_CacheRedis_API-master\Redis\APICotacoes\obj\Debug\netcoreapp2.2\APICotacoes.AssemblyInfo.cs
+C:\Users\gcerqueira\Downloads\ASPNETCore2.2_Sql_CacheRedis_API-master\Redis\APICotacoes\obj\Debug\netcoreapp2.2\APICotacoes.RazorTargetAssemblyInfo.cache
+C:\Users\gcerqueira\Downloads\ASPNETCore2.2_Sql_CacheRedis_API-master\Redis\APICotacoes\obj\Debug\netcoreapp2.2\APICotacoes.dll
+C:\Users\gcerqueira\Downloads\ASPNETCore2.2_Sql_CacheRedis_API-master\Redis\APICotacoes\obj\Debug\netcoreapp2.2\APICotacoes.pdb
